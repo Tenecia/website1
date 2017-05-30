@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
-
+/*BODY*/
 html, body{
 	margin:0px;
 	background:url(symphony.png) repeat;
@@ -9,7 +9,7 @@ html, body{
 	font-family: 'Montserrat', sans-serif;
 	color:DimGray;
 }
-
+/*HEADING*/
 h1, h2, h3, h4{
 	
 }
@@ -22,11 +22,6 @@ h2{
 	color:Salmon;
 }
 
-a.email{
-	color:DarkSeaGreen;
-	text-decoration:none;
-}
-
 
 h1.name{
 	margin-bottom:0px;
@@ -35,15 +30,9 @@ h1.name{
 	display:inline;
 }
 
-
-
-
 #wrapper{
 	margin-top:150px;
 }
-
-
-
 
 h2.title{
 	margin-top: 40px;
